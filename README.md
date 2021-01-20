@@ -1,7 +1,7 @@
 # Responsive Web Design: The Next Web Project
 
-> 
-![screenshot](https://user-images.githubusercontent.com/69638013/105198280-cb7c8480-5b3d-11eb-8d6a-ce686089fa71.png)
+> Screen
+![the next web clone page](https://user-images.githubusercontent.com/69638013/105202595-72631f80-5b42-11eb-86a4-596594d909fb.png)
 
 
 ## Built With
@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://el28dev.github.io/TNW_project/.)
 
 ## Authors
 
