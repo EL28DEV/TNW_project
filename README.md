@@ -17,19 +17,19 @@
 👤 **Elyor Doniyorov**
 
 - GitHub: [@githubhandle](https://github.com/EL28DEV)
-- LinkedIn: [LinkedIn](https://linkedin.com/elyor-doniyorov-a24631135/)
+- LinkedIn: [https://www.linkedin.com/in/elyor-doniyorov-a24631135/)
 
 👤 **Oni Olajumoke Priscilla**
 
 - GitHub: [@githubhandle](https://github.com/prolajumokeoni)
 - Twitter: [@twitterhandle](https://twitter.com/prolajumokeoni)
-- LinkedIn: [LinkedIn](https://linkedin.com/olajumoke-priscilla-oni-44a48b162/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olajumoke-priscilla-oni-44a48b162/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [https://github.com/EL28DEV/TNW_project/issues](issues/).
 
 ## Show your support
 
