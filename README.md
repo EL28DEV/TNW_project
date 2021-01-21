@@ -17,7 +17,7 @@
 👤 **Elyor Doniyorov**
 
 - GitHub: [@githubhandle](https://github.com/EL28DEV)
-- LinkedIn: [https://www.linkedin.com/in/elyor-doniyorov-a24631135/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/elyor-doniyorov-a24631135/)
 
 👤 **Oni Olajumoke Priscilla**
 
