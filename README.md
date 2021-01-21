@@ -29,8 +29,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/EL28DEV/TNW_project/issues](issues/).
-Feel free to check the [https://github.com/EL28DEV/TNW_project/issues](issues/).
+Feel free to check the [https://github.com/EL28DEV/TNW_project/issues/4#issue-790853135](issues/).
 
 ## Show your support
 
