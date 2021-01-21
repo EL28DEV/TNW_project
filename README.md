@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://el28dev.github.io/TNW_project/.)
+[Live Demo THE NEXT WEB CLONE](https://el28dev.github.io/TNW_project/.)
 
 ## Authors
 
